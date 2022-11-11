@@ -10,7 +10,7 @@
   npm install
   ```
 
-  >Step-2 run node react-server.js inside root directory of frontend_production to run server
+  >Step-3 run node react-server.js inside root directory of frontend_production to run server
   ```
   node react-server.js
   ```
