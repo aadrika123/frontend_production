@@ -17,14 +17,14 @@
   
   >Step-4 Hit the url
   ```
-    1 citizen-panel
+    1 citizen
       /citizen-panel
   
     2 admin
       /admin
   
     3 citizen-view
-      /citizen-view
+      /citizen-mb
   ```
  
 
