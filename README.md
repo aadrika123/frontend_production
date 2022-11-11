@@ -17,13 +17,13 @@
   
   >Step-4 Hit the url
   ```
-    1 citizen
-      /citizen-panel
+    1 citizen panel
+      /citizen
   
-    2 admin
+    2 admin panel
       /admin
   
-    3 citizen-view
+    3 citizen mobile panel
       /citizen-mb
   ```
  
