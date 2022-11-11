@@ -24,7 +24,7 @@
       /admin
   
     3 citizen-view
-    /citizen-view
+      /citizen-view
   ```
  
 
