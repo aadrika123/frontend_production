@@ -13,6 +13,7 @@ app.get("/", (req, res) => {
 //middleware to server static files also
 app.use(express.static("citizen_build"));
 app.use(express.static("admin_build"));
+app.use(express.static("citizen_mb_build"));
 
 //actual routes
 app.get("/citizen", (req, res) => {
@@ -21,8 +22,11 @@ app.get("/citizen", (req, res) => {
 app.get("/admin", (req, res) => {
   res.sendFile(path.join(__dirname, "admin_build", "index.html"));
 });
+app.get("/citizen-mb", (req, res) => {
+  res.sendFile(path.join(__dirname, "citizen_mb_build", "index.html"));
+});
 
 // start express server on port 82
-app.listen(80, () => {
+app.listen(82, () => {
   console.log("server started on port 82");
 });
