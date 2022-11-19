@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fb91014.css",
-    "main.js": "/static/js/main.3314f2d4.js",
+    "main.css": "/static/css/main.1818b969.css",
+    "main.js": "/static/js/main.b28b06bf.js",
     "static/js/787.96c35cf0.chunk.js": "/static/js/787.96c35cf0.chunk.js",
     "static/media/checkmark-transparent.gif": "/static/media/checkmark-transparent.6d1140b4dba830d23edd.gif",
     "static/media/userImage.jpg": "/static/media/userImage.cfe9f79c746ba3002568.jpg",
@@ -66,12 +66,12 @@
     "static/media/user.webp": "/static/media/user.fbe9cd2f07acd3692c0b.webp",
     "static/media/WaterWorkflowCandidateCard": "/static/media/WaterWorkflowCandidateCard.4838e9738da1da9efa14",
     "index.html": "/index.html",
-    "main.2fb91014.css.map": "/static/css/main.2fb91014.css.map",
-    "main.3314f2d4.js.map": "/static/js/main.3314f2d4.js.map",
+    "main.1818b969.css.map": "/static/css/main.1818b969.css.map",
+    "main.b28b06bf.js.map": "/static/js/main.b28b06bf.js.map",
     "787.96c35cf0.chunk.js.map": "/static/js/787.96c35cf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fb91014.css",
-    "static/js/main.3314f2d4.js"
+    "static/css/main.1818b969.css",
+    "static/js/main.b28b06bf.js"
   ]
 }
