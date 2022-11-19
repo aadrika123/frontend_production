@@ -28,5 +28,5 @@ app.get("/citizen-mb", (req, res) => {
 
 // start express server on port 82
 app.listen(80, () => {
-  console.log("server started on port 82");
+  console.log("server started on port 80");
 });
