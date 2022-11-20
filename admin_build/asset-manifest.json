@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1818b969.css",
-    "main.js": "/static/js/main.b28b06bf.js",
+    "main.css": "/static/css/main.58b27b60.css",
+    "main.js": "/static/js/main.db60d93f.js",
     "static/js/787.96c35cf0.chunk.js": "/static/js/787.96c35cf0.chunk.js",
     "static/media/checkmark-transparent.gif": "/static/media/checkmark-transparent.6d1140b4dba830d23edd.gif",
     "static/media/userImage.jpg": "/static/media/userImage.cfe9f79c746ba3002568.jpg",
@@ -16,6 +16,7 @@
     "static/media/pin.png": "/static/media/pin.f156cc10a821c9ee8ba2.png",
     "static/media/tracking.png": "/static/media/tracking.e1c9aaebbb6a5a587b01.png",
     "static/media/pay2.png": "/static/media/pay2.be61869c555330341a2f.png",
+    "static/media/money.png": "/static/media/money.7f03c00dbb4d45e3cda3.png",
     "static/media/empty.png": "/static/media/empty.892bd5952464ffc9399f.png",
     "static/media/road.png": "/static/media/road.328d8af58d06c582a762.png",
     "static/media/tax.png": "/static/media/tax.5427d9715adc0d54f661.png",
@@ -53,6 +54,7 @@
     "static/media/l.png": "/static/media/l.2c6be7d6370947664298.png",
     "static/media/view.png": "/static/media/view.6d284237c7ee75982d47.png",
     "static/media/new.svg": "/static/media/new.40ec2bf2be8984f277d96a7e24dabf5e.svg",
+    "static/media/dashboard.svg": "/static/media/dashboard.20c6eb3d1fb2a20716cc9ddaf7e06d77.svg",
     "static/media/folders.png": "/static/media/folders.319591b31f73cbd3a24f.png",
     "static/media/ill.svg": "/static/media/ill.5f04e66d3a213c1ea1074ceee2f17928.svg",
     "static/media/photo.png": "/static/media/photo.9789e022157f5994cdc5.png",
@@ -66,12 +68,12 @@
     "static/media/user.webp": "/static/media/user.fbe9cd2f07acd3692c0b.webp",
     "static/media/WaterWorkflowCandidateCard": "/static/media/WaterWorkflowCandidateCard.4838e9738da1da9efa14",
     "index.html": "/index.html",
-    "main.1818b969.css.map": "/static/css/main.1818b969.css.map",
-    "main.b28b06bf.js.map": "/static/js/main.b28b06bf.js.map",
+    "main.58b27b60.css.map": "/static/css/main.58b27b60.css.map",
+    "main.db60d93f.js.map": "/static/js/main.db60d93f.js.map",
     "787.96c35cf0.chunk.js.map": "/static/js/787.96c35cf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1818b969.css",
-    "static/js/main.b28b06bf.js"
+    "static/css/main.58b27b60.css",
+    "static/js/main.db60d93f.js"
   ]
 }
