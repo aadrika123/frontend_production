@@ -19,10 +19,19 @@ app.use(express.static("citizen_mb_build"));
 app.get("/citizen", (req, res) => {
   res.sendFile(path.join(__dirname, "citizen_build", "index.html"));
 });
+app.get("/citizen/*", (req, res) => {
+  res.sendFile(path.join(__dirname, "citizen_build", "index.html"));
+});
 app.get("/admin", (req, res) => {
   res.sendFile(path.join(__dirname, "admin_build", "index.html"));
 });
+app.get("/admin/*", (req, res) => {
+  res.sendFile(path.join(__dirname, "admin_build", "index.html"));
+});
 app.get("/citizen-mb", (req, res) => {
+  res.sendFile(path.join(__dirname, "citizen_mb_build", "index.html"));
+});
+app.get("/citizen-mb/*", (req, res) => {
   res.sendFile(path.join(__dirname, "citizen_mb_build", "index.html"));
 });
 
